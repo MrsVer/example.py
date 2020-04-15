@@ -1,3 +1,3 @@
-name = "zsuzsanna"
+name = "zsuzsanna ver"
 
 print ("hello")

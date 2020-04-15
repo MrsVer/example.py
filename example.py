@@ -1,0 +1,3 @@
+name = "zsuzsanna"
+
+print ("hello")

@@ -1,1 +1,2 @@
-print ('Hi')
+name = "Zsuzsanna"
+print("Hi " + name)
